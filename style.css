@@ -19,7 +19,7 @@ body {
 
 .about {
     background-image: linear-gradient(rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.8)),
-        url(/img/1-768x376.jpg);
+        url(https://i.ibb.co/M2jpmFL/Structure-Design.jpg);
     background-size: cover;
     background-position: center;
     color: linear-gradient(rgba(19, 46, 202, 0.952), rgba(237, 238, 241, 0.952));
